@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+E:\??\applet_src\sFILEAPP.src\.metadata\.plugins\org.eclipse.jdt.core
+3271193799.index

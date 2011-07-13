@@ -1,0 +1,186 @@
+Manifest-Version: 1.0
+Created-By: 1.5.0_22 (Sun Microsystems Inc.)
+
+Name: texts/dan
+SHA1-Digest: 0XsyQlnNH4ot0bNTmhif7dZZjWM=
+
+Name: texts/cht
+SHA1-Digest: JfWqIEl7zxdl7xvyGnKpzvnk2D8=
+
+Name: texts/csy
+SHA1-Digest: ZjHvHmBRnB2fpYOKw+neKW9MRYo=
+
+Name: org/json/JSONException.class
+SHA1-Digest: 9pKLTnxDU3RX3KdnkUwzsAzhO+8=
+
+Name: action/upload/params/UploadFileParam.class
+SHA1-Digest: OJVHnhjBMBi2Fbdum3ubPXp5hAk=
+
+Name: action/upload/UploadTaskThread.class
+SHA1-Digest: oJphUets8MvP/6Jq1FzwK7vXLK4=
+
+Name: action/list/ListHandler.class
+SHA1-Digest: 5OtF56uspuaU+ADEIlLQwEMyl5Q=
+
+Name: texts/nld
+SHA1-Digest: mw36KmQVCn5h92UkLJk0yEp/mvE=
+
+Name: fileutil/SFile.class
+SHA1-Digest: YrLpHztskX3Uc/teWMQ/NWWt1Yc=
+
+Name: ui/FileDialogThread.class
+SHA1-Digest: ifr2+k9VDuZMnWY+AywumWws084=
+
+Name: webutil/HTTPStream.class
+SHA1-Digest: BvRXPs46hHXEPkNtfulFTCVUqHk=
+
+Name: action/upload/UploadTaskManeger.class
+SHA1-Digest: 6VxPQ1SsAE+LLeN+Mh/k0JmG/JQ=
+
+Name: texts/chs
+SHA1-Digest: SyLy3OnS9Af4039TyuxI2QvRM30=
+
+Name: action/upload/params/UploadTaskParam.class
+SHA1-Digest: JlqSZXgf1s51nelsaCsknhBUbmk=
+
+Name: action/upload/params/ConnectionParam.class
+SHA1-Digest: aKIJqCAxbo1z6eG6AKq38DOl/mk=
+
+Name: action/upload/params/UploadTaskParam$STATUS.class
+SHA1-Digest: SUDqdRA/qBgrO+W/IUnH52y8pXk=
+
+Name: action/FileStationHandler.class
+SHA1-Digest: W3WY6f+l5fMO+fp0btaWi4e6/54=
+
+Name: texts/fre
+SHA1-Digest: BbXC88McfLgDJ/51Jk4TfMprsmw=
+
+Name: fileutil/filefilter/FileEntryFilter.class
+SHA1-Digest: hvAXlvB7k3I8ZTrn/M9h7ZvQtS0=
+
+Name: texts/plk
+SHA1-Digest: nnA6OPglt4BHPTRwyYCOVmZu6M4=
+
+Name: fileutil/filecomparator/FileTypeComparator.class
+SHA1-Digest: K+adrSmleWjhrgBMb3djnsDIp8c=
+
+Name: texts/enu
+SHA1-Digest: 0XsyQlnNH4ot0bNTmhif7dZZjWM=
+
+Name: texts/trk
+SHA1-Digest: C47olsv3Va0kjaUs0D96tQ3+xvA=
+
+Name: texts/spn
+SHA1-Digest: xpzvmEb1P/WV5Qg+jHTM9lAJdR8=
+
+Name: org/json/JSONObject$Null.class
+SHA1-Digest: PiizhyU8aJ0d21gBpuztkFcouCA=
+
+Name: fileutil/filefilter/FileNameAndTypeFilter.class
+SHA1-Digest: nZhbElxOi6JUX5hNUdb07aEVzYA=
+
+Name: org/json/JSONObject$1.class
+SHA1-Digest: fhMIJsDctWnhI5PTsLZeAVuup5w=
+
+Name: jsonutil/JSONUtil.class
+SHA1-Digest: VOX8v+qRE3hTTfnklyhuMorRxOk=
+
+Name: fileutil/FileUtil$OS_TYPE.class
+SHA1-Digest: qQONaW08vcOzlKuMZ2Y6c8knj38=
+
+Name: action/list/ListHandler$LIST_TYPE.class
+SHA1-Digest: rUqLZe0J+4eEB1DC1dNGBvWEhzg=
+
+Name: fileutil/filecomparator/FileMTIMEComparator.class
+SHA1-Digest: OJGJXulJEu7pobpbsxc1ZCEgwCw=
+
+Name: ui/UIString.class
+SHA1-Digest: iOH+ZDpHkNfH+m9qcIjrYgiJQxQ=
+
+Name: texts/nor
+SHA1-Digest: QV2zwPbp0FVZ0ejBNwJeheBkShA=
+
+Name: ui/FileDialog.class
+SHA1-Digest: s4+NAcLbYj2YhOZvBFTJEriZmDg=
+
+Name: texts/ita
+SHA1-Digest: zUs/MowoZ3ePkzojO7wnHbbgXw8=
+
+Name: action/upload/params/TimeAndSpaceParam.class
+SHA1-Digest: WCagQpJm3kX5SaZyrBGI98vp1HI=
+
+Name: fileutil/filefilter/SFileFilter.class
+SHA1-Digest: C6HZ9Jr08+el7wpy/TH2iUbOX8w=
+
+Name: texts/sve
+SHA1-Digest: 9IclI0k9yG1wLVTMRnHw1uYS2SQ=
+
+Name: texts/ptg
+SHA1-Digest: g+P8XEXFtYbJJtpiYZtbp+5slcI=
+
+Name: fileutil/filefilter/UploadFileFilter.class
+SHA1-Digest: +1TXUR8mvkS7BXoSxIg404ntcw4=
+
+Name: main/AppletHandler.class
+SHA1-Digest: 7OygLLvqpO62ymc0HpSYCuo25W8=
+
+Name: fileutil/filecomparator/FileNameComparator.class
+SHA1-Digest: AO1zLr2LZ71U+C86Q38WmN6dAjk=
+
+Name: fileutil/FileUtil.class
+SHA1-Digest: LwqItYRgR+mmFYJtTI2C37FVnQg=
+
+Name: org/json/JSONArray.class
+SHA1-Digest: 14r2g+tadXAl7kTvXAwUwJlAmOM=
+
+Name: org/json/JSONTokener.class
+SHA1-Digest: q2VP4jMOfzEte8Q4nUT4C71v6f4=
+
+Name: javautil/Version.class
+SHA1-Digest: yuEjwD/vpCs5sALmonhm0GABBQ8=
+
+Name: texts/hun
+SHA1-Digest: P3tt6dfEAnKRHS2po8U5frBbOwU=
+
+Name: main/AppletHandler$1.class
+SHA1-Digest: bMajNbMuRJm5gdMGdVOpJlhgKc0=
+
+Name: fileutil/SpaceUtil.class
+SHA1-Digest: zdNC0xFx0AliKC0uKXJIoOgfuXg=
+
+Name: action/upload/UploadTaskSizeHandler.class
+SHA1-Digest: SsBkQyz9GoAQA7GOJ0IXDxuYj/0=
+
+Name: jsutil/JSUtil.class
+SHA1-Digest: m7eXXLVlUCkA+vFeGGsHwVI14vc=
+
+Name: texts/krn
+SHA1-Digest: 9KFgTx4e8l3dUmgdlaKZqIta1iQ=
+
+Name: fileutil/filecomparator/FileSizeComparator.class
+SHA1-Digest: b+If+3gTZp5HE3FaGonyamjvSNs=
+
+Name: texts/ger
+SHA1-Digest: rU00/QyFXAhWOxTEnYwrjaSfeaE=
+
+Name: org/json/JSONString.class
+SHA1-Digest: kEcgCFNoTG0wyIgsuDJqsSay/EA=
+
+Name: texts/ptb
+SHA1-Digest: 0XsyQlnNH4ot0bNTmhif7dZZjWM=
+
+Name: action/upload/UploadFileThread.class
+SHA1-Digest: 2J4igIU6n1E0eghGRfJq6xg7KZQ=
+
+Name: texts/jpn
+SHA1-Digest: tG6z8TwTiLv8AJ/9yEDDubDg6cA=
+
+Name: action/upload/UploadHandler.class
+SHA1-Digest: QF4vbxhQnYshikv1z+YwsvNTdBs=
+
+Name: org/json/JSONObject.class
+SHA1-Digest: T5WBYKT+E44cWXFqxXwXYCNOaxQ=
+
+Name: texts/rus
+SHA1-Digest: mh8EuaKhThIv3lrPMDJCDfTYsEc=
+
